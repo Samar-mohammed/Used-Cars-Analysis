@@ -3,7 +3,6 @@
 ## 📌 Project Overview  
 This project analyzes used car listings from [Craigslist Cars & Trucks Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data).  
 The analysis covers:  
-- Exploratory Data Analysis (EDA).
 - Price trends over time  
 - Geographical distribution of listings  
 - Price variations based on car condition, manufacturer, and fuel type  
